@@ -8,7 +8,7 @@ These notes are intended for personal use and to help others who might be studyi
 
 ## License
 
-These notes are shared under the [Your License] (e.g., Creative Commons, MIT). Please give credit where it's due.
+These notes are shared under the MIT. Please give credit where it's due.
 
 ---
 
